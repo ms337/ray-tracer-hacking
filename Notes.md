@@ -18,3 +18,14 @@ P3
 
 
 ```
+
+
+Antialiasing
+
+
+Diffuse Materials
+
+"One question is whether we mix and match geometry and materials (so we can assign a material to multiple spheres, or vice versa) or if geometry and material are tightly bound (that could be useful for procedural objects where the geometry and material are linked). We’ll go with separate — which is usual in most renderers — but do be aware of the limitation."
+
+
+Positionable Camera
